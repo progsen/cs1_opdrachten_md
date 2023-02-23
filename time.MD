@@ -9,9 +9,9 @@ Je ziet dat er al een `console.writeline` staat
 
 
 verander het programma zodat het dit doet:
-- Elke seconde laat je de `huidige tijd` op het scherm zien (zie DateTime in de documentatie)
-- De tijd mag niet onder elkaar komen! 
-- Veeg het scherm schoon voordat je de nieuwe tijd erop zet. 
+- Elke seconde laat je de `huidige tijd` op het scherm zien (zie `DateTime` in de documentatie)
+- De tijd mag `niet` onder elkaar komen! 
+- Veeg het scherm schoon `voordat` je de nieuwe tijd erop zet. 
 
 ## extra:
 
