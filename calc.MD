@@ -3,7 +3,7 @@
 
 Maak nieuw `Console project` aan met de naam `CalcExtra`
 
-## circle cirlce variabelen
+## circle circle variabelen
 
 We gaan een circle-circle berekening doen
 
@@ -13,6 +13,9 @@ We gaan een circle-circle berekening doen
 - maak ook nog 2 variabelen aan voor de straal (`rad`)
 - noem deze `rad1 en rad2`
 
+- maak ook nog 1 variabele met naam `testLength`
+- geef deze de waarde 15
+- 
 ## waardes geven
 
 - punt 1 (x1,y1) heeft coordinaat: (50,50)
@@ -32,6 +35,10 @@ We gaan een circle-circle berekening doen
 
 - schrijf de collide bool naar de console, deze zou true moeten geven.
 
+## testLength aanpassen
+
+- geef nu testLength de waarde 5
+- nu zou de console false moeten laten zien
 ## git
 
 commit naar je git repository voor de vak!
