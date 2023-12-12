@@ -2,7 +2,7 @@
 ## Opdracht
 
 
-- Download de volgende directory `10_functions`
+- ga naar `10_functions` in `cs1_opdrachten_md_files`
 - in elke folder staat een `.sln` file
     - open de eerste
 - maak nu de opdracht
