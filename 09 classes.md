@@ -2,7 +2,7 @@
 ## Opdracht
 
 
-- Download de volgende directory `09_classes`
+- ga naar `09_classes` in `cs1_opdrachten_md_files`
 - in elke folder staat een `.sln` file
     - open de eerste
 - maak nu de opdracht

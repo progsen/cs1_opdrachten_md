@@ -2,7 +2,7 @@
 ## Opdracht
 
 
-- Download de volgende directory `11_arrays`
+- ga naar `11_arrays` in `cs1_opdrachten_md_files`
 - in elke folder staat een `.sln` file
     - open de eerste
 - maak nu de opdracht

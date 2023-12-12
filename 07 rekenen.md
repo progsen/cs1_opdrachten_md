@@ -2,7 +2,8 @@
 ## Opdracht
 
 
-- Download de volgende directory `07_rekenen`
+- ga naar `07_rekenen` in `cs1_opdrachten_md_files`
+
 - in elke folder staat een `.sln` file
     - open de eerste
 - maak nu de opdracht
