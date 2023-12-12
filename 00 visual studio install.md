@@ -1,4 +1,8 @@
-TODO
+## visual studio installeren
+
+> LET OP:  
+>  
+> dit is `niet` visual studio `code`!
 
 - ga naar:
     - https://visualstudio.microsoft.com/vs/community/
