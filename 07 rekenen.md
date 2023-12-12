@@ -18,7 +18,7 @@
 
 > Niet verplicht wel leuk!
 
-- Download de volgende directory `extra/Clicker`
+- open de directory `extra/Clicker` in `cs1_opdrachten_md_files`
     - maak de opdracht:
         - [extra/02_calc.MD](extra/02_calc.MD)
 
