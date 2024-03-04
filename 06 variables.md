@@ -3,7 +3,10 @@
 
 - fork deze repository:
     - https://github.com/progsen/cs1_opdrachten_md_files
-- git clone `JOUW` cs1_opdrachten_md_files fork naar je hardeschijf
+- ga naar jouw fork
+
+    - git clone `JOUW` cs1_opdrachten_md_files FORK naar je hardeschijf
+        > nu heb je dus de files op je hardeschijf. werk daar in
 
 - ga naar `06_variables` in `cs1_opdrachten_md_files`
 - in elke folder staat een `.sln` file
